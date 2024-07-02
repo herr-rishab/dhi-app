@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "247445520377",
+    "project_id": "project-dhi-5nroic",
+    "storage_bucket": "project-dhi-5nroic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247445520377:android:50d4e3bfcbd6a14bf7c728",
+        "android_client_info": {
+          "package_name": "com.enactusmuj.dhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4otR98f0UbnjuE2AFHGMvS6fjI5ASWcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247445520377:android:d954ba9be8a25891f7c728",
+        "android_client_info": {
+          "package_name": "com.galacticgeeks.dhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4otR98f0UbnjuE2AFHGMvS6fjI5ASWcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247445520377:android:5e11386ee6c5cf3bf7c728",
+        "android_client_info": {
+          "package_name": "com.projectdhi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4otR98f0UbnjuE2AFHGMvS6fjI5ASWcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
